@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-kqcsbw.trans88.online/sitemap.xml
